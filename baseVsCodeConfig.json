@@ -1,0 +1,13 @@
+{
+  "editor.fontLigatures": true,
+  "editor.fontFamily": "'JetBrains Mono', Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontSize": 13,
+  "editor.formatOnSave": true,
+  "editor.linkedEditing": true,
+  "workbench.editor.enablePreview": false,
+  "editor.tabSize": 2,
+  "editor.minimap.enabled": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false
+}
