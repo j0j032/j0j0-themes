@@ -1,4 +1,6 @@
 // TODO: define a primary, secondary color
+// pour les tokens inspiration nike... un thème pricipale et 2-3 palettes qui vont avec... 
+// ensuite, dans l'extension le user genere un thème en choisissant une pellette principale, une palette secondaire et une palette tertiaire..
 
 export const gray = {
   1: "#111111",
